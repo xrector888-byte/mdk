@@ -1,0 +1,28 @@
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\bin\Debug\LesnovKrasavchik.exe.config
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\bin\Debug\LesnovKrasavchik.exe
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\bin\Debug\LesnovKrasavchik.pdb
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\LesnovKrasavchik.csproj.AssemblyReference.cache
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\MainWindow.g.cs
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\App.g.cs
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\LesnovKrasavchik_MarkupCompile.cache
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\MainWindow.baml
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\LesnovKrasavchik.g.resources
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\LesnovKrasavchik.Properties.Resources.resources
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\LesnovKrasavchik.csproj.GenerateResource.cache
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\LesnovKrasavchik.csproj.CoreCompileInputs.cache
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\LesnovKrasavchik.exe
+S:\2 курс ИСП2131\Леснов\LesnovKrasavchik\LesnovKrasavchik\obj\Debug\LesnovKrasavchik.pdb
+C:\Users\afeaa\Desktop\gasanov\bin\Debug\LesnovKrasavchik.exe.config
+C:\Users\afeaa\Desktop\gasanov\bin\Debug\LesnovKrasavchik.exe
+C:\Users\afeaa\Desktop\gasanov\bin\Debug\LesnovKrasavchik.pdb
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\gasanov.csproj.AssemblyReference.cache
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\MainWindow.baml
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\MainWindow.g.cs
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\App.g.cs
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\LesnovKrasavchik_MarkupCompile.cache
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\LesnovKrasavchik.g.resources
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\LesnovKrasavchik.Properties.Resources.resources
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\gasanov.csproj.GenerateResource.cache
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\gasanov.csproj.CoreCompileInputs.cache
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\LesnovKrasavchik.exe
+C:\Users\afeaa\Desktop\gasanov\obj\Debug\LesnovKrasavchik.pdb
